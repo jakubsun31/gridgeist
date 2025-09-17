@@ -30,3 +30,4 @@ Notes and usage details for gridgeist.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
